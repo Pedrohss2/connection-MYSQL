@@ -2,7 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-.db.properties
+!**/src/test/**/db.properties/
+
 
 ### Eclipse ###
 .apt_generated
